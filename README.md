@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 - 💻 Software engineer; founder of **Sapenor** (legal-tech) and **Bishamon Games** (mobile studio)
-- 🏗️ I **build the infrastructure** — my flagship is a self-hosted RAG stack written without an orchestration framework, not an API I call
+- 🏗️ I **build the infrastructure** — I built and run my own RAG stack from scratch, instead of calling a hosted one
 - 📏 I **measure before I ship**: an eval harness and deterministic checks decide what goes to production, including what doesn't
 - 📱 Shipped several apps to the **App Store and Play Store**, and built the [Bishamon Games](https://bishamongames.com) studio site
 - 🎓 B.Eng. Mathematical Engineering, Yıldız Technical University
@@ -67,10 +67,4 @@ Products live on the App Store and Google Play. More at the [Bishamon Games port
 
 I also led prototyping and optimization for **Car King**, a multiplayer mobile game published on iOS and Android, and built the **[Bishamon Games](https://bishamongames.com)** studio site itself.
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakSahinkaya&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
-
-<p align="center"><sub>Most of my day-to-day is in Sapenor's private repository — the graph here shows only the public side.</sub></p>
+<p align="center"><sub>Most of my day-to-day work lives in Sapenor's private repository.</sub></p>
