@@ -26,11 +26,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,nextjs,react,tailwind,rust&perline=9" alt="stack row 1"><br>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,flutter,dart,cs,unity,git,vercel&perline=9" alt="stack row 2">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,swift,flutter,dart,cs,unity,git,vercel&perline=10" alt="stack row 2">
 </p>
 
 <p align="center"><sub>
-RAG · vector search · bge-m3 · HNSW · tool-calling agents · LLM evaluation · citation verification · model routing · pgvector · Chrome Extensions (MV3) · Row-Level Security
+RAG · vector search · bge-m3 · HNSW · tool-calling agents · LLM evaluation · citation verification · model routing · pgvector · Chrome Extensions (MV3) · Row-Level Security · RealityKit · ARKit · RoomPlan · photogrammetry · LiDAR depth fusion
 </sub></p>
 
 ## ⚖️ Sapenor — production legal AI
@@ -49,6 +49,7 @@ Source is on GitHub — each one built to run, not to demo.
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**ObjectScanner**](https://github.com/burakSahinkaya/ObjectScanner) | 3D-scans real objects and rooms on-device — photogrammetry, turntable, TrueDepth and RoomPlan behind one output contract. Reads back the solver's own camera poses to diagnose a bad capture instead of guessing at it. | Swift 6 · RealityKit · ARKit · RoomPlan |
 | [**circlio-split-bills**](https://github.com/burakSahinkaya/circlio-split-bills) | Shared-expense app — groups, live balances, settlement suggestions. [On the App Store »](https://apps.apple.com/us/app/circlio-split-bills/id6761620867) | Flutter · Firebase · Riverpod |
 | [**KeyClickSoundApp**](https://github.com/burakSahinkaya/KeyClickSoundApp) | A click on every keystroke, system-wide. A listen-only keyboard hook that never records what you type. | Tauri · Rust · React |
 | [**pdf-book-translator**](https://github.com/burakSahinkaya/pdf-book-translator) | Translates English book PDFs into Turkish, keeping chapters and images. Two-tier OCR, free offline first. | Python · PySide6 · PyMuPDF |
